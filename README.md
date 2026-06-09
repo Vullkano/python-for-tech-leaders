@@ -1,21 +1,33 @@
 # Python for Tech Leaders
 
-Course support material organized into topic-based notebooks. This repository serves as the entry point, and the main navigation lives in the lobby notebook.
+<div align="center">
 
-## Quick access
+Course support material organized into topic-based notebooks.
 
-- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/Lobby.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/Lobby.ipynb)
 
-## About this repository
+<p><strong>Start here:</strong> open the lobby notebook to access the full learning path.</p>
 
-Here you will find a collection of notebooks to accompany the course, with curated content by topic and a structure designed to make learning easier.
+</div>
 
-The entry point is the [Colab Lobby](Lobby.ipynb), where you will find:
+## Overview
 
-- the link to open the main notebook in Colab;
-- links to every other notebook in the project;
-- a quick overview of the material structure.
+This repository contains the notebooks used throughout the course. The content is grouped by topic, with the lobby notebook acting as the main entry point and navigation hub.
 
-## Note
+## What’s inside
 
-This README is intentionally simple: detailed navigation lives in the lobby to avoid duplication and keep the homepage clean.
+- `Lobby do Colab.ipynb`: the homepage for the course and the place where you’ll find links to every notebook.
+- `0. How to install Python/`: setup and Python fundamentals.
+- `1. Data Structures/`: lists, tuples, dictionaries, sets, and related exercises.
+- `2. Loops/`: `for` and `while` loops, iteration patterns, and practice tasks.
+
+## Recommended flow
+
+1. Open the Colab lobby.
+2. Start with the Python installation notebook.
+3. Continue through the topic notebooks in order.
+
+## Notes
+
+- The README stays intentionally light so the lobby can handle detailed navigation.
+- If you update the notebook structure, keep the lobby as the single source of truth for links.

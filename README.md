@@ -1,33 +1,57 @@
 # Python for Tech Leaders
 
 <div align="center">
+  
+  ![Python for Tech Leaders Banner](banner.png)
+  
+  **O teu ponto de partida no mundo da programação, desenhado especificamente para líderes e gestores.**
 
-Course support material organized into topic-based notebooks.
+  [![Open In Colab](https://img.shields.io/badge/Abrir_no_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/Lobby.ipynb)
+  [![Python Version](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Iscte](https://img.shields.io/badge/Iscte-Executive_Education-00629B?style=for-the-badge)](https://executive.iscte-iul.pt/)
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/Lobby.ipynb)
-
-<p><strong>Start here:</strong> open the lobby notebook to access the full learning path.</p>
-
+  ---
+  
+  *Este repositório contém os materiais de suporte ao curso organizados em notebooks interativos (Google Colab). Sem configurações complexas, sem instalar nada (se não quiseres) — basta clicar e aprender!*
+  
 </div>
 
-## Overview
+## 🎯 Porquê Python para Tech Leaders?
 
-This repository contains the notebooks used throughout the course. The content is grouped by topic, with the lobby notebook acting as the main entry point and navigation hub.
+No mundo moderno, compreender código é um superpoder para quem lidera. Este curso não te vai tornar num programador a tempo inteiro, mas vai dar-te a capacidade de:
+* 🗣️ **Comunicar melhor** com as tuas equipas de engenharia e produto.
+* 🧠 **Pensar algoritmicamente** para resolver problemas complexos de negócio.
+* 🤖 **Entender o básico de automação e IA** ao nível do código real.
 
-## What’s inside
+---
 
-- `Lobby do Colab.ipynb`: the homepage for the course and the place where you’ll find links to every notebook.
-- `0. How to install Python/`: setup and Python fundamentals.
-- `1. Data Structures/`: lists, tuples, dictionaries, sets, and related exercises.
-- `2. Loops/`: `for` and `while` loops, iteration patterns, and practice tasks.
+## 🗺️ Mapa de Aprendizagem
 
-## Recommended flow
+Para facilitar a tua jornada, dividimos o conteúdo em módulos simples e práticos. O **Lobby do Colab** é a tua página inicial.
 
-1. Open the Colab lobby.
-2. Start with the Python installation notebook.
-3. Continue through the topic notebooks in order.
+| Módulo | Conteúdo | Notebook Colab | Apresentação |
+| :--- | :--- | :---: | :---: |
+| 🏠 **Lobby** | Portal de entrada e índice do curso | [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/Lobby.ipynb) | - |
+| 🛠️ **Módulo 0** | Instalação e Conceitos Fundamentais de Python | [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/0.%20How%20to%20install%20Python/Python_Fundamentals.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/0.%20How%20to%20install%20Python/How%20to%20install%20Python.pptx) |
+| 📦 **Módulo 1** | Estruturas de Dados (Listas, Dicionários, Tuplos) | [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/1.%20Data%20Structures/Data_Structures.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/1.%20Data%20Structures/Data_Structures.pptx) |
+| 🔄 **Módulo 2** | Ciclos e Repetições (Loops `for` e `while`) | [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/2.%20Loops/Loops.ipynb) | - |
 
-## Notes
+---
 
-- The README stays intentionally light so the lobby can handle detailed navigation.
-- If you update the notebook structure, keep the lobby as the single source of truth for links.
+## 🚀 Como Começar?
+
+Seguir este fluxo é tão simples quanto **1, 2, 3**:
+
+1. **Clica no botão** `Abrir no Colab` no topo (ou usa a tabela acima).
+2. **Faz login** com a tua conta Google.
+3. **Executa as células** de código pressionando `Shift + Enter` para ver os resultados no momento!
+
+> [!TIP]
+> **Dica de Ouro:** Não tenhas medo de alterar os exemplos de código e experimentar nos notebooks! O Google Colab corre numa cópia temporária na nuvem, por isso podes testar e errar à vontade sem receio de estragar nada.
+
+---
+
+## 📌 Notas Importantes
+
+* 🏠 **Fonte Única de Verdade:** Mantemos o `Lobby.ipynb` como a página principal de navegação. Se adicionares novos notebooks ao projeto, lembra-te de atualizar os links lá!
+* 💻 **Instalação Local:** Se preferires correr o Python localmente no teu computador em vez da nuvem, podes seguir o guia de instalação detalhado no **Módulo 0**.

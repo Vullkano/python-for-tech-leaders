@@ -6,13 +6,13 @@
   
   **O teu ponto de partida no mundo da programação, desenhado especificamente para líderes e gestores.**
 
-  [![Open In Colab](https://img.shields.io/badge/Abrir_no_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/Lobby.ipynb)
+  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/Lobby.ipynb)
   [![Python Version](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![Iscte](https://img.shields.io/badge/Iscte-Executive_Education-00629B?style=for-the-badge)](https://executive.iscte-iul.pt/)
+  [![Iscte](https://img.shields.io/badge/Iscte-Executive_Education-00629B?style=for-the-badge)](https://www.iscte-iul.pt/)
 
   ---
   
-  *Este repositório contém os materiais de suporte ao curso organizados em notebooks interativos (Google Colab). Sem configurações complexas, sem instalar nada (se não quiseres) — basta clicar e aprender!*
+  *Este repositório contém os materiais de suporte ao curso organizados em notebooks interativos (Google Colab). Se nunca usaste o Colab, começa por abrir o Lobby e segue as instruções no ecrã.*
   
 </div>
 
@@ -31,10 +31,10 @@ Para facilitar a tua jornada, dividimos o conteúdo em módulos simples e práti
 
 | Módulo | Conteúdo | Notebook Colab | Apresentação |
 | :--- | :--- | :---: | :---: |
-| 🏠 **Lobby** | Portal de entrada e índice do curso | [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/Lobby.ipynb) | - |
-| 🛠️ **Módulo 0** | Instalação e Conceitos Fundamentais de Python | [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/0.%20How%20to%20install%20Python/Python_Fundamentals.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/0.%20How%20to%20install%20Python/How%20to%20install%20Python.pptx) |
-| 📦 **Módulo 1** | Estruturas de Dados (Listas, Dicionários, Tuplos) | [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/1.%20Data%20Structures/Data_Structures.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/1.%20Data%20Structures/Data_Structures.pptx) |
-| 🔄 **Módulo 2** | Ciclos e Repetições (Loops `for` e `while`) | [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/2.%20Loops/Loops.ipynb) | - |
+| 🏠 **Lobby** | Portal de entrada e índice do curso | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/Lobby.ipynb) | - |
+| 🛠️ **Módulo 0** | Instalação e Conceitos Fundamentais de Python | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/0.%20How%20to%20install%20Python/Python_Fundamentals.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/0.%20How%20to%20install%20Python/How%20to%20install%20Python.pptx) |
+| 📦 **Módulo 1** | Estruturas de Dados (Listas, Dicionários, Tuplos) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/1.%20Data%20Structures/Data_Structures.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/1.%20Data%20Structures/Data_Structures.pptx) |
+| 🔄 **Módulo 2** | Ciclos e Repetições (Loops `for` e `while`) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/2.%20Loops/Loops.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/2.%20Loops/Loops.pptx) |
 
 ---
 
@@ -42,9 +42,9 @@ Para facilitar a tua jornada, dividimos o conteúdo em módulos simples e práti
 
 Seguir este fluxo é tão simples quanto **1, 2, 3**:
 
-1. **Clica no botão** `Abrir no Colab` no topo (ou usa a tabela acima).
-2. **Faz login** com a tua conta Google.
-3. **Executa as células** de código pressionando `Shift + Enter` para ver os resultados no momento!
+1. **Abre o Lobby no Colab** usando o link no topo ou a tabela acima.
+2. **Faz login** com a tua conta Google, se o Colab pedir.
+3. **Carrega em `Shift + Enter`** para executar cada célula e ver o resultado.
 
 > [!TIP]
 > **Dica de Ouro:** Não tenhas medo de alterar os exemplos de código e experimentar nos notebooks! O Google Colab corre numa cópia temporária na nuvem, por isso podes testar e errar à vontade sem receio de estragar nada.

@@ -28,14 +28,15 @@ No mundo moderno, compreender código é um superpoder para quem lidera. Este cu
 ## 🗺️ Mapa de Aprendizagem
 
 Para facilitar a tua jornada, dividimos o conteúdo em módulos simples e práticos. O **Lobby do Colab** é a tua página inicial.
-
 | Módulo | Conteúdo | Notebook Colab | Apresentação |
 | :--- | :--- | :---: | :---: |
 | 🏠 **Lobby** | Portal de entrada e índice do curso | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/Lobby.ipynb) | - |
 | 🛠️ **Módulo 0** | Instalação e Conceitos Fundamentais de Python | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/0.%20How%20to%20install%20Python/Python_Fundamentals.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/0.%20How%20to%20install%20Python/How%20to%20install%20Python.pptx) |
 | 📦 **Módulo 1** | Estruturas de Dados (Listas, Dicionários, Tuplos) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/1.%20Data%20Structures/Data_Structures.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/1.%20Data%20Structures/Data_Structures.pptx) |
 | 🔄 **Módulo 2** | Ciclos e Repetições (Loops `for` e `while`) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/2.%20Loops/Loops.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/2.%20Loops/Loops.pptx) |
-
+| 📊 **Módulo 3** | Visualização de Dados (Matplotlib & Seaborn) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/3.%20Data%20Visualization/Data_Visualization.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/3.%20Data%20Visualization/Data%20Visualization.pptx) |
+| 🐼 **Módulo 4** | Análise de Dados (Introdução ao Pandas) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/4.%20Pandas/Pandas.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/4.%20Pandas/Pandas.pptx) |
+| 🤖 **Módulo 5** | Introdução à IA e Machine Learning | [![Classificação](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/5.%20AI/notebooks/Titanic_Classification.ipynb) <br> [![Regressão](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vullkano/python-for-tech-leaders/blob/main/5.%20AI/notebooks/House_Regression.ipynb) | [Download 📊](https://github.com/Vullkano/python-for-tech-leaders/raw/main/5.%20AI/Slides.pptx) |
 ---
 
 ## 🚀 Como Começar?

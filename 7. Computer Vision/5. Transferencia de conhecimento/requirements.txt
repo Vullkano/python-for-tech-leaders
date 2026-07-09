@@ -1,0 +1,16 @@
+tensorflow
+keras
+numpy
+matplotlib
+scikit-learn
+pandas
+seaborn
+pydot
+opencv-python
+lxml[html_clean]
+tf_keras_vis
+nbformat
+nbconvert
+optuna
+ipywidgets
+nbimporter

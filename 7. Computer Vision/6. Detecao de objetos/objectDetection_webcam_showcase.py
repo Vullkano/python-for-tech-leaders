@@ -22,7 +22,7 @@ from ultralytics import YOLO
 CAMERA_WINDOW_NAME = "YOLO Live Showcase - Camera"
 CHART_WINDOW_NAME = "YOLO Live Showcase - Barplot"
 CAMERA_INDEX = 0
-MODEL_PATH = "yolo26n.pt"
+MODEL_PATH = "yolo26l.pt"
 DEFAULT_CONFIDENCE = 0.35
 DEFAULT_FRAME_SKIP = 1
 PANEL_WIDTH = 520

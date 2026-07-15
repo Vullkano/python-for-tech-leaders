@@ -6,7 +6,17 @@
 import cv2
 from ultralytics import YOLO
 
-# carregar o modelo yolo26 "nano" (vai buscar automaticamente o modelo se ainda não estiver gravado)
+# Modelos oficiais YOLO26 (Ultralytics):
+# - Deteção: yolo26n.pt, yolo26s.pt, yolo26m.pt, yolo26l.pt, yolo26x.pt
+# - Segmentação de instância: yolo26n-seg.pt, yolo26s-seg.pt, yolo26m-seg.pt, yolo26l-seg.pt, yolo26x-seg.pt
+# - Segmentação semântica: yolo26n-sem.pt, yolo26s-sem.pt, yolo26m-sem.pt, yolo26l-sem.pt, yolo26x-sem.pt
+# - Pose/Keypoints: yolo26n-pose.pt, yolo26s-pose.pt, yolo26m-pose.pt, yolo26l-pose.pt, yolo26x-pose.pt
+# - OBB/Oriented Detection: yolo26n-obb.pt, yolo26s-obb.pt, yolo26m-obb.pt, yolo26l-obb.pt, yolo26x-obb.pt
+# - Classificação: yolo26n-cls.pt, yolo26s-cls.pt, yolo26m-cls.pt, yolo26l-cls.pt, yolo26x-cls.pt
+# YOLOE-26 open-vocabulary também existe em várias escalas, por exemplo:
+# yoloe-26n-seg.pt, yoloe-26s-seg.pt, yoloe-26m-seg.pt, yoloe-26l-seg.pt, yoloe-26x-seg.pt
+# Neste exemplo uso o modelo de deteção nano, que é o mais leve.
+# O Ultralytics faz download automático se o ficheiro ainda não existir localmente.
 model = YOLO("yolo26n.pt")
 
 # caminho para o video a analisar (mudar a gosto)
